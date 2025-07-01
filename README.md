@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my knowledge and skills in AI, machine learning, and data science.<br>- 🌱 I’m currently learning advanced algorithms, deep learning techniques, and competitive programming.<br>- 👯 I’m looking to collaborate on learning projects and coding challenges
+- 🔭 I’m currently working on improving my knowledge and skills in AI, machine learning, and data science.<br>- 🌱 I’m currently learning advanced algorithms, deep learning techniques, and competitive programming.<br>- 👯 I’m looking to collaborate on learning projects and coding challenges
 
 
 ## 🌐 Socials:
@@ -14,4 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NairrahNawar&icon=0&color=0)](https://visitcount.itsvg.in)
-
